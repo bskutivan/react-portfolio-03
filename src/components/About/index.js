@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import './style.css';
-import devImage from '../../assets/cover/IMG-5514.JPG'
+import devImage from '../../assets/cover/me.JPG'
 
 function About() {
     return(
