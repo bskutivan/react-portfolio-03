@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Character Builder",
+        "image": "https://raw.githubusercontent.com/bskutivan/character_builder/master/screenshots/Screenshot1.png",
+        "github": "https://github.com/bskutivan/character_builder",
+        "deployedapp": "https://dnd-char-builder.herokuapp.com/",
+        "description": "A Dungeons and Dragons character building and sharing app."
+    },
+    {
+        "id": 2,
+        "name": "Budget Tracker",
+        "image": "https://raw.githubusercontent.com/bskutivan/budget-tracker-pwa/master/screenshots/screenshot1.png",
+        "github": "https://github.com/bskutivan/budget-tracker-pwa",
+        "deployedapp": "https://budget-tracker-12221.herokuapp.com/",
+        "description": "A budget tracking app that utilizes service workers and IndexedDB to work offlince."
+    },
+    {
+        "id": 3,
+        "name": "Tech Blog",
+        "image": "https://raw.githubusercontent.com/bskutivan/tech-blog/master/screenshots/screenshot1.png",
+        "github": "https://github.com/bskutivan/tech-blog",
+        "deployedapp": "https://tech-blog-sleepy-ninja.herokuapp.com/",
+        "description": "A tech blogging app."
+    },
+    {
+        "id": 4,
+        "name": "National Park Planner",
+        "image": "https://raw.githubusercontent.com/bskutivan/National-Park-Planner/master/assets/images/Screenshot1.png",
+        "github": "https://github.com/bskutivan/National-Park-Planner",
+        "deployedapp": "https://bskutivan.github.io/National-Park-Planner/",
+        "description": "An app that utilizes Google api and the NPS api to list parks closest to the input address."
+    },
+    {
+        "id": 5,
+        "name": "Weather Dashboard",
+        "image": "https://raw.githubusercontent.com/bskutivan/Weather-Dashboard/master/assets/images/Screenshot1.jpg",
+        "github": "https://github.com/bskutivan/Weather-Dashboard",
+        "deployedapp": "https://bskutivan.github.io/Weather-Dashboard/",
+        "description": "An app that utilizes weather api to dynamically list and save weather information."
+    },
+    {
+        "id": 6,
+        "name": "Run Buddy",
+        "image": "https://raw.githubusercontent.com/bskutivan/run-buddy/master/screenshot1.png",
+        "github": "https://github.com/bskutivan/run-buddy",
+        "deployedapp": "https://bskutivan.github.io/run-buddy/",
+        "description": "The first webpage I ever built that utilizes custom CSS and HTML to mock a fitness training web service."
+    },
+    {
+        "id": 7,
+        "name": "Shop Shoppe",
+        "image": "https://raw.githubusercontent.com/bskutivan/ShopShoppe/master/screenshots/screenshot1.png",
+        "github": "https://github.com/bskutivan/ShopShoppe",
+        "deployedapp": "https://shop-shoppe.herokuapp.com/",
+        "description": "A MERN stack ecommerce site that utilizes redux to manage its state!"
+    },
+    {
+        "id": 8,
+        "name": "Kicks",
+        "image": "https://raw.githubusercontent.com/bskutivan/kicks/master/Screenshot.png",
+        "github": "https://github.com/bskutivan/kicks",
+        "deployedapp": "https://kicks-shoes.herokuapp.com/",
+        "description": "A full PWA MERN stack shopping app that uses Redux to manage state!"
+    }
+]
