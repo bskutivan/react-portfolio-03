@@ -24,6 +24,7 @@ function Portfolio() {
                         image = {project.image}
                         github = {project.github}
                         deployedapp = {project.deployedapp}
+                        description = {project.description}
                     />
                    )
                 })

@@ -23,12 +23,12 @@ function ProjectCard(props) {
           <div className="img-container">
             <img alt={props.name} src={props.image} />
           </div>
-          <div>
+          <div className="title-container">
             <a href={props.deployedapp}>{props.name}</a>
           </div>
-            <a href={props.github}>Project Github</a>
-          <div>
-            <a href={props.description}>{props.description}</a> 
+          <a className= "project-github" href={props.github}>Project Github</a>
+          <div className="about-container"> 
+            <a className="project-about" href={props.description}>{props.description}</a> 
           </div>
         </div>
     )
