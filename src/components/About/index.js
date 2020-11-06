@@ -14,7 +14,7 @@ function About() {
                 <p>
                 I am a coding bootcamp graduate with a passion for learning new technologies and solving new problems.
                 <br />
-                I pursued studying History and ancient languages during my time at UCSC and have been spending the last 7 months learning as many new coding languages as I can.
+                I pursued studying History and ancient languages during my time at UCSC and have been spending the last 8 months learning as many new coding languages as I can.
                 <br />
                 I am based in central California and am an avid gardener and cultivator of curious campanula and feathery ferns.
                 </p>
