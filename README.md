@@ -10,10 +10,10 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation 
-  clone the repository to your own directory or download from github with the green download button. Then open up the repo in gitbash and use npm i to get necessary dependencies     and then adjust src files to reflect your needs.
+  Clone the repository to your own directory or download from github with the green download button. Then open up the repo in gitbash and use npm i to get necessary dependencies     and then adjust src files to reflect your needs.
   
   ## Usage
-  feel free to use the code as you please. 
+  Feel free to use the code as you please. 
    
   ## License
   This project is licensed under the MIT license.
