@@ -1,0 +1,38 @@
+.contactContainer {
+    background-color: #07031A;
+    color: #FBD46D;
+    width: 100%;
+    border-radius: 10px;
+    
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 25rem;
+}
+
+.contactDiv{
+    padding: 1rem;
+    width: 25%;
+    height: 50%;
+}
+
+.contactDiv .contactH4 {
+    margin-bottom: 2rem;
+    font-size: 25px;
+}
+
+@media only screen and (max-width: 600px) {
+    .flex {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contactDiv {
+        width: 100%;
+        height: 100%;
+    }
+}
