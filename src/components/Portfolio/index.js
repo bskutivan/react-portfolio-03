@@ -25,6 +25,7 @@ function Portfolio() {
                         github = {project.github}
                         deployedapp = {project.deployedapp}
                         description = {project.description}
+                        technologies = {project.technologies}
                     />
                    )
                 })

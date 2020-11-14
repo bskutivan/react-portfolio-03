@@ -28,7 +28,10 @@ function ProjectCard(props) {
           </div>
           <a className= "project-github" href={props.github}>Project Github</a>
           <div className="about-container"> 
-            <a className="project-about" href={props.description}>{props.description}</a> 
+            <p className="project-about" href={props.description}>{props.description}</p>
+            <div>
+            <p className="project-tech" href={props.technologies}>Tech used: {props.technologies}</p>
+            </div>
           </div>
         </div>
     )
